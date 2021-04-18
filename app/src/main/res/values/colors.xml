@@ -7,4 +7,8 @@
     <color name="teal_700">#FF018786</color>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+    <color name="matrix_black">#0D0208</color>
+    <color name="matrix_dark_green">#003B00</color>
+    <color name="matrix_medium_green">#008F11</color>
+    <color name="matrix_green">#00FF41</color>
 </resources>
