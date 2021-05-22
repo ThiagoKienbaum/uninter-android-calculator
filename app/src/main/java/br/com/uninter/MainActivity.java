@@ -44,7 +44,7 @@ public class MainActivity extends AppCompatActivity {
     }
 
     public void multiplicationOnClick(View view) {
-        setExpression("X");
+        setExpression("*");
     }
 
     public void divisionOnClick(View view) {
