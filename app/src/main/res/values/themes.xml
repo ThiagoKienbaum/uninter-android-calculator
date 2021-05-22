@@ -41,7 +41,11 @@
         <item name="android:layout_width">0dp</item>
         <item name="android:layout_height">match_parent</item>
         <item name="android:layout_weight">1</item>
-        <item name="android:background">@drawable/border</item>
+        <item name="android:layout_marginBottom">-6dp</item>
+        <item name="android:backgroundTint">@color/matrix_black</item>
+        <item name="strokeWidth">0.9dp</item>
+        <item name="strokeColor">@color/matrix_dark_green</item>
+        <item name="cornerRadius">0dp</item>
         <item name="android:textColor">@color/matrix_medium_green</item>
         <item name="android:textSize">28sp</item>
         <item name="android:textStyle">bold</item>
@@ -52,7 +56,11 @@
         <item name="android:layout_width">0dp</item>
         <item name="android:layout_height">match_parent</item>
         <item name="android:layout_weight">1</item>
-        <item name="android:background">@drawable/border</item>
+        <item name="android:layout_marginBottom">-6dp</item>
+        <item name="android:backgroundTint">@color/matrix_black</item>
+        <item name="strokeWidth">0.9dp</item>
+        <item name="strokeColor">@color/matrix_dark_green</item>
+        <item name="cornerRadius">0dp</item>
         <item name="android:textColor">@color/matrix_green</item>
         <item name="android:textSize">28sp</item>
         <item name="android:textStyle">bold</item>
